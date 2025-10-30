@@ -20,8 +20,10 @@ I’ve also become comfortable applying artificial intelligence to support vario
 ---
 
 ### Tech & Tools
-`Python` · `JavaScript` · `C++` · `HTML` · `CSS`  
-`Node.js` · `Express` · `React` · `SQLite` · `Git` · `Linux` · `VS Code` · `Bash`
+- **Languages:** Python · JavaScript · C · C++ · HTML  · CSS
+- **Frameworks:** Node.js · Express · React  
+- **Databases:** SQLite  
+- **Tools & Systems:** Git · Linux · VS Code · Bash
 
 ---
 
