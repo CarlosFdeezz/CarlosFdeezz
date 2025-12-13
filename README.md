@@ -36,7 +36,6 @@ I’ve also become comfortable applying artificial intelligence to support vario
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/carlosfernandezcabeza)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/CarlosFernandezCabeza)
 
 ---
 
