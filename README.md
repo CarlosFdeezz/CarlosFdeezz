@@ -7,7 +7,6 @@
 
 I'm a **Computer Engineering student at the University of Cádiz (UCA)**, currently exploring different areas of software and technology.  
 I learn by building — from academic projects to personal experiments — and I enjoy turning ideas into working code.  
-I’ve also become comfortable applying artificial intelligence to support various aspects of my work and learning.
 
 ---
 
