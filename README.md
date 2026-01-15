@@ -28,7 +28,7 @@ I learn by building — from academic projects to personal experiments — and I
 
 ### Featured Projects
 - **[Fintrix](https://github.com/CarlosFernandezCabeza/Fintrix)** — Personal finance management web app (React + Express + SQLite).  
-- **[Software Modernization Project]** — Migration of a legacy Fortran codebase to Python and C++. *(private repository, academic team project)*
+- **[Software Modernization Project](https://github.com/AlbertoGomez23/PROYECTO-PINF)** — Migration of a legacy Fortran codebase to Python.
 - *(More projects coming soon...)*  
 
 ---
