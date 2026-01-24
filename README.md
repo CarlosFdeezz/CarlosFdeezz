@@ -6,14 +6,14 @@
 # 👋🏻 Hi there, I'm Carlos Fernández Cabeza
 
 I'm a **Computer Engineering student at the University of Cádiz (UCA)**, currently exploring different areas of software and technology.  
-I learn by building — from academic projects to personal experiments — and I enjoy turning ideas into working code.  
+I learn by building and I enjoy turning ideas into working code.  
 
 ---
 
 ### Interests
+- Systems engineering & automation  
 - Software design & architecture  
 - Web and backend development  
-- Systems engineering & automation  
 - Learning new tools, frameworks, and languages  
 
 ---
@@ -27,8 +27,8 @@ I learn by building — from academic projects to personal experiments — and I
 ---
 
 ### Featured Projects
-- **[Fintrix](https://github.com/CarlosFernandezCabeza/Fintrix)** — Personal finance management web app (React + Express + SQLite).  
 - **[Software Modernization Project](https://github.com/AlbertoGomez23/PROYECTO-PINF)** — Migration of a legacy Fortran codebase to Python.
+- **[Fintrix](https://github.com/CarlosFernandezCabeza/Fintrix)** — Personal finance management web app (React + Express + SQLite).  
 - *(More projects coming soon...)*  
 
 ---
