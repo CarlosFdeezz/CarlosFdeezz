@@ -27,8 +27,8 @@ I learn by building and I enjoy turning ideas into working code.
 ---
 
 ### Featured Projects
-- **[Software Modernization Project](https://github.com/AlbertoGomez23/PROYECTO-PINF)** — Migration of a legacy Fortran codebase to Python.
-- **[Fintrix](https://github.com/CarlosFernandezCabeza/Fintrix)** — Personal finance management web app (React + Express + SQLite).  
+- **[Modernization of the Spanish Nautical Almanac (ROA)](https://github.com/AlbertoGomez23/AlmanaPy)** — Migration of a legacy Fortran codebase to Python.
+- **[Fintrix – Personal Finance Application](https://github.com/CarlosFernandezCabeza/Fintrix)** — Personal finance management web app (React + Express + SQLite).  
 - *(More projects coming soon...)*  
 
 ---
