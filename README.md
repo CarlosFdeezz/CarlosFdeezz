@@ -1,41 +1,32 @@
-<!--
-**CarlosFdeezz/CarlosFdeezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# 👋 Hi, I'm Carlos Fernández Cabeza
 
+**Computer Engineering Student @ UCA | Backend Developer | Systems Modernizer**
 
-# 👋🏻 Hi there, I'm Carlos Fernández Cabeza
+I build software with a focus on **integrity, architecture, and clean migrations.** I enjoy diving into complex codebases to reduce technical debt and build robust backend solutions.
 
-I'm a **Computer Engineering student at the University of Cádiz (UCA)**, currently exploring different areas of software and technology.  
-I learn by building and I enjoy turning ideas into working code.  
+### 🛠 Tech Stack & Tools
 
----
+* **Languages:** Python (Advanced), JavaScript (ES6+), C/C++, Bash.
+* **Backend & DB:** Node.js, Express, SQLite, REST APIs.
+* **Frontend:** React, Tailwind CSS, Vite.
+* **DevOps & Tools:** Docker, Git, Linux, Vitest.
 
-### Interests
-- Systems engineering & automation  
-- Software design & architecture  
-- Web and backend development  
-- Learning new tools, frameworks, and languages  
+### 🚀 Featured Projects
 
----
+#### ⚓ [AlmanaPy](https://github.com/AlbertoGomez23/AlmanaPy)
+**Mission-Critical Modernization**
+Modernization of the Spanish Nautical Almanac for the **Royal Observatory of the Navy (ROA)**. Refactored 12k lines of legacy Fortran into a containerized Python 3.12 system.
+*Key tech:* Python, Skyfield, Docker, Streamlit.
 
-### Tech & Tools
-- **Languages:** Python · JavaScript · C · C++ · HTML  · CSS
-- **Frameworks:** Node.js · Express · React  
-- **Databases:** SQLite  
-- **Tools & Systems:** Git · Linux · VS Code · Bash
-
----
-
-### Featured Projects
-- **[Modernization of the Spanish Nautical Almanac (ROA)](https://github.com/AlbertoGomez23/AlmanaPy)** — Migration of a legacy Fortran codebase to Python.
-- **[Fintrix – Personal Finance Application](https://github.com/CarlosFdeezz/Fintrix)** — Personal finance management web app (React + Express + SQLite).  
-- *(More projects coming soon...)*  
+#### 💳 [ProtoPay](https://github.com/CarlosFdeezz/protopay)
+**Full-Stack Architecture Prototype**
+A technical sandbox designed to explore clean architecture, layered backend logic, and responsive UI.
+*Key tech:* React, Express, SQLite, Tailwind CSS.
 
 ---
 
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/carlosfernandezcabeza)
+### 📈 My Engineering Philosophy
+> "Software is not just about writing new code; it's about evolving existing systems without breaking the world."
 
----
-
-> “Learning never exhausts the mind.” — *Leonardo da Vinci*
+* 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/carlosfernandezcabeza/)
+* 🔭 **Currently learning:** Advanced Backend Patterns & Scalable Architectures.
