@@ -1,32 +1,29 @@
-# 👋 Hi, I'm Carlos Fernández Cabeza
+# Hi, I'm Carlos Fernández Cabeza
 
-**Computer Engineering Student @ UCA | Backend Developer | Systems Modernizer**
+Computer Engineering student at UCA, focused on backend development
+and working with systems that have real constraints.
 
-I build software with a focus on **integrity, architecture, and clean migrations.** I enjoy diving into complex codebases to reduce technical debt and build robust backend solutions.
+Most significant project so far: modernizing the Spanish Nautical Almanac
+from 12,000 lines of Fortran 77 to a Python 3.12 system for the Spanish
+Navy's Royal Observatory (ROA).
 
-### 🛠 Tech Stack & Tools
+## Tech Stack
 
-* **Languages:** Python (Advanced), JavaScript (ES6+), C/C++, Bash.
-* **Backend & DB:** Node.js, Express, SQLite, REST APIs.
-* **Frontend:** React, Tailwind CSS, Vite.
-* **DevOps & Tools:** Docker, Git, Linux, Vitest.
+Languages: Python, C++, JavaScript, Bash
+Backend: Node.js, Express, SQLite, REST APIs
+Frontend: React, Vite, Tailwind CSS
+Tools: Docker, Git, Linux
 
-### 🚀 Featured Projects
+## Projects
 
-#### ⚓ [AlmanaPy](https://github.com/AlbertoGomez23/AlmanaPy)
-**Mission-Critical Modernization**
-Modernization of the Spanish Nautical Almanac for the **Royal Observatory of the Navy (ROA)**. Refactored 12k lines of legacy Fortran into a containerized Python 3.12 system.
-*Key tech:* Python, Skyfield, Docker, Streamlit.
+**[AlmanaPy](link)** — Modernization of the Spanish Nautical Almanac for
+the ROA. Rewrote legacy Fortran astronomical algorithms in Python,
+integrating JPL NASA ephemeris data. Containerized with Docker.
 
-#### 💳 [ProtoPay](https://github.com/CarlosFdeezz/protopay)
-**Full-Stack Architecture Prototype**
-A technical sandbox designed to explore clean architecture, layered backend logic, and responsive UI.
-*Key tech:* React, Express, SQLite, Tailwind CSS.
+**[ProtoPay](link)** — Full-stack prototype built to learn clean
+architecture hands-on: React/Vite frontend, Express/SQLite backend,
+separated by a RESTful API.
 
----
+## Contact
 
-### 📈 My Engineering Philosophy
-> "Software is not just about writing new code; it's about evolving existing systems without breaking the world."
-
-* 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/carlosfernandezcabeza/)
-* 🔭 **Currently learning:** Advanced Backend Patterns & Scalable Architectures.
+[LinkedIn](link)
