@@ -16,14 +16,14 @@ Tools: Docker, Git, Linux
 
 ## Projects
 
-**[AlmanaPy](link)** — Modernization of the Spanish Nautical Almanac for
+**[AlmanaPy](https://github.com/AlbertoGomez23/AlmanaPy)** — Modernization of the Spanish Nautical Almanac for
 the ROA. Rewrote legacy Fortran astronomical algorithms in Python,
 integrating JPL NASA ephemeris data. Containerized with Docker.
 
-**[ProtoPay](link)** — Full-stack prototype built to learn clean
+**[ProtoPay](https://github.com/CarlosFdeezz/protopay)** — Full-stack prototype built to learn clean
 architecture hands-on: React/Vite frontend, Express/SQLite backend,
 separated by a RESTful API.
 
 ## Contact
 
-[LinkedIn](link)
+[LinkedIn](https://www.linkedin.com/in/carlosfernandezcabeza/)
