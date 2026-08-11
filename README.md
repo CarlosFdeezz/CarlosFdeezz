@@ -1,29 +1,18 @@
-# Hi, I'm Carlos Fernández Cabeza
+# Carlos Fernández Cabeza
+Computer Engineering student at the University of Cádiz (UCA), focused on backend development, algorithms, and domain-specific software.
 
-Computer Engineering student at UCA, focused on backend development
-and working with systems that have real constraints.
+## About Me
+Computer Engineering student at UCA with a strong interest in backend development and software modernization. Skilled in C++, Python, and Linux environments, with a focus on applying core engineering principles to practical projects.
 
-Most significant project so far: modernizing the Spanish Nautical Almanac
-from 12,000 lines of Fortran 77 to a Python 3.12 system for the Spanish
-Navy's Royal Observatory (ROA).
+## Key Project
+* **[AlmanaPy](https://github.com/AlbertoGomez23/AlmanaPy) (Royal Institute and Observatory of the Navy - ROA):** A collaborative team project aimed at modernizing the Spanish Nautical Almanac. Contributed significantly to migrating astronomical algorithms from ~12,000 lines of legacy Fortran 77 into Python 3.12, integrating NASA JPL ephemeris data, and containerizing the environment with Docker.
 
-## Tech Stack
-
-Languages: Python, C++, JavaScript, Bash
-Backend: Node.js, Express, SQLite, REST APIs
-Frontend: React, Vite, Tailwind CSS
-Tools: Docker, Git, Linux
+## Technical Skills
+* **Core:** C++, Bash, Linux, Git, Docker, Python
+* **Web Development Exposure:** JavaScript, React, Vite, Node.js, Express, SQLite, REST APIs
 
 ## Projects
-
-**[AlmanaPy](https://github.com/AlbertoGomez23/AlmanaPy)** — Modernization of the Spanish Nautical Almanac for
-the ROA. Rewrote legacy Fortran astronomical algorithms in Python,
-integrating JPL NASA ephemeris data. Containerized with Docker.
-
-**[ProtoPay](https://github.com/CarlosFdeezz/protopay)** — Full-stack prototype built to learn clean
-architecture hands-on: React/Vite frontend, Express/SQLite backend,
-separated by a RESTful API.
+* **[ProtoPay](https://github.com/CarlosFdeezz/protopay):** A full-stack learning project designed to explore clean architecture and client-server communication using a simplified web interface (React/Vite) and API backend (Express/SQLite).
 
 ## Contact
-
-[LinkedIn](https://www.linkedin.com/in/carlosfernandezcabeza/)
+* [LinkedIn](https://www.linkedin.com/in/carlosfernandezcabeza/)
